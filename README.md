@@ -24,7 +24,7 @@ Los datos simulados se encuentran en el archivo `Test/Datest.h`.
 Luego del llamado a la función `log_transactions()`, se imprime el log generado, mostrando
 los datos ordenados por fecha.
 
-### Referenciade a recursos empleados
+### Referencias a recursos empleados
 
 https://www.cplusplus.com/
 
